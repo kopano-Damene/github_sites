@@ -1,6 +1,6 @@
 <footer class="footer text-center">
-	All Rights Reserved by Kopano Damane. Developed by <a
-		href="https://www.linkedin.com/jobs/search/?geoId=100001436&keywords=Full-stack%20Developer&location=Cape%20Town%2C%20Western%20Cape">Kopano Damane</a>.
+	All Rights Reserved by Kopano Damane. Developed by 
+	<a href="https://www.linkedin.com/jobs/search/?geoId=100001436&keywords=Full-stack%20Developer&location=Cape%20Town%2C%20Western%20Cape">Kopano Damane</a>.
 </footer>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
