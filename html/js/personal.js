@@ -1,12 +1,14 @@
-//the code under will execute when the document is fully loaded
 $(document).ready(function() {
-	//Modal open
-  $("#create-link").click(function(){
-  	$('#create_l_modal').show();
+
+  	$("#create-link").click(function(){
+  		$("#create_l_modal").show();
+		$("#create").click(function(){
+			alert("The create button is clicked");
+	  	});
 	});
-	//Modal close
+
 	$(".close").click(function(){
-  	$('#create_l_modal').hide();
+  		$('#create_l_modal').hide()
 	});
 	
 });
